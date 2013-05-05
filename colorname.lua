@@ -1,6 +1,4 @@
-代码
-查看详情2013年5月5日 05:05
-夜未央 发给 zweidyx
+
 if not Manfred["nameplate"].enable == true then return end
 function UIScale()
 if Manfred["general"].AutoScale == true then
